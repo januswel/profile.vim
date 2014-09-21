@@ -1,12 +1,12 @@
 " vim plugin name
 " Filename:     profile.vim
 " Maintainer:   janus_wel <janus.wel.3@gmail.com>
-" Dependency:
+" Dependency: {{{1
 "   This plugin requires following files
 "
 "   https://github.com/januswel/jwlib.vim
 "       autoload/jwlib/profile.vim
-"
+
 " License:      MIT License {{{1
 "   See under URL.  Note that redistribution is permitted with LICENSE.
 "   https://github.com/januswel/profile.vim/blob/master/LICENSE
